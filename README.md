@@ -47,13 +47,20 @@ A complete full-stack blog application built with React, Express, MongoDB, and F
 
 ### SAMPLE SCREEN
 
-![Register][/readme-images/REACT_REGISTER]
+**Register Page**
 
-![Login][/readme-images/REACT_LOGIN]
+![Register][/readme-images/REACT_REGISTER.png]
 
-![ArticleList][readme-images/REACT_ARTICLES]
+**Login Page**
 
-![User Interaction][readme-images/REACT_USER_INTERACTION]
+![Login][/readme-images/REACT_LOGIN.png]
+
+**Article List Page**
+
+![ArticleList][readme-images/REACT_ARTICLES.png]
+
+**User Interaction Page**
+![User Interaction][readme-images/REACT_USER_INTERACTION.png]
 
 ## 🛠️ Tech Stack
 
